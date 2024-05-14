@@ -1,3 +1,6 @@
+# Tracker.Gnome
+Home: https://tracker.gnome.org/
+
 # disableTracker3.linux
 sch: https://www.google.com/search?q=linux+cache%2Ftracker3
 
