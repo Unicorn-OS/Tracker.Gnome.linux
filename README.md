@@ -1,9 +1,19 @@
 # Tracker.Gnome
 Home: https://tracker.gnome.org/
 
-# disableTracker3.linux
+# Clean space:
+>If the Tracker Miner FS database is using a lot of disk space, you can run `tracker3 reset --filesystem` to delete everything stored there.
+
+
+# disableTracker.linux
 sch: https://www.google.com/search?q=linux+cache%2Ftracker3
 
+## Doc:
+https://tracker.gnome.org/faq/
+>**How can I disable Tracker in GNOME?**  
+>In case of a bug you may need to temporarily stop Tracker Miner FS indexing. The simplest way is to edit the configuration so that no directories are indexed. This should bring resource usage to zero.
+
+## alt:
 discuss: https://askubuntu.com/questions/1487330/what-is-a-tracker3-folder-inside-home-cache-is-it-safe
 
 disable:
